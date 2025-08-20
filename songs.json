@@ -1,0 +1,139 @@
+{
+  "songs": [
+    {
+      "song": 1,
+      "name": "Aura",
+      "authors": ["Ogryzek"],
+      "path": "assets/songs/AURA-Ogryzek.mp3",
+      "url": "assets/images/AURA.jpg"
+    },
+    {
+      "song": 2,
+      "name": "Brodyaga - Funk",
+      "authors": ["Eternexlkz"],
+      "path": "assets/songs/BRODYAGA FUNK - Eternxlkz.mp3",
+      "url": "assets/images/BRODYAGA_FUNK.jpg"
+    },
+    {
+      "song": 3,
+      "name": "Glory",
+      "authors": ["Ogryzek"],
+      "path": "assets/songs/GLORY-Ogryzek.mp3",
+      "url": "assets/images/GLORY.jpg"
+    },
+    {
+      "song": 4,
+      "name": "Ishq From Lost Found",
+      "authors": ["Faheem Abdullah"],
+      "path": "assets/songs/Ishq From Lost Found- Faheem Abdullah.mp3",
+      "url": "assets/images/Ishq_From_Lost_Found.jpg"
+    },
+    {
+      "song": 5,
+      "name": "MONTAGEM COMA-slowed",
+      "authors": ["ANDROMEDA"],
+      "path": "assets/songs/MONTAGEM COMA Slowed- ANDROMEDA.mp3",
+      "url": "assets/images/MONTAGEM_COMA_Slowed.jpg"
+    },
+    {
+      "song": 6,
+      "name": "O Sahib From Abdullahpur Ka Devdas",
+      "authors": ["Adnan Dhool"],
+      "path": "assets/songs/O Sahib From Abdullahpur Ka Devdas- Adnan Dhool.mp3",
+      "url": "assets/images/O_Sahib_From_Abdullahpur_Ka_Devdas.jpg"
+    },
+    {
+      "song": 7,
+      "name": "Pal Pal",
+      "authors": ["Afusic"],
+      "path": "assets/songs/Pal Pal-Afusic.mp3",
+      "url": "assets/images/Pal_Pal.jpg"
+    },
+    {
+      "song": 8,
+      "name": "Saiyaara From Saiyaara",
+      "authors": ["Tanishk Bagchi"],
+      "path": "assets/songs/Saiyaara From Saiyaara-Tanishk Bagchi.mp3",
+      "url": "assets/images/Saiyaara_From_Saiyaara.jpg"
+    }
+  ],
+
+  "playLists": [
+    {
+      "playList": 1,
+      "name": "AP Dhillon",
+      "songs": [
+        "assets/playLists/AP Dhillon/All Night (Live).mp3",
+        "assets/playLists/AP Dhillon/Brown Munde.mp3",
+        "assets/playLists/AP Dhillon/Chances.mp3",
+        "assets/playLists/AP Dhillon/Drip.mp3",
+        "assets/playLists/AP Dhillon/Droptop.mp3",
+        "assets/playLists/AP Dhillon/Hustlin'.mp3",
+        "assets/playLists/AP Dhillon/Lifestyle.mp3",
+        "assets/playLists/AP Dhillon/Losing Myself (feat. Gunna).mp3",
+        "assets/playLists/AP Dhillon/Majhail.mp3"
+      ],
+      "cover": "assets/playLists/AP Dhillon/cover.jpeg"
+    },
+    {
+      "playList": 2,
+      "name": "Arijit Singh",
+      "songs": [
+        "assets/playLists/Arijit Singh/Apna Bana Le.mp3",
+        "assets/playLists/Arijit Singh/Dhun (From _Saiyaara_).mp3",
+        "assets/playLists/Arijit Singh/Humdard (From _Ek Villain_).mp3",
+        "assets/playLists/Arijit Singh/Mast Magan (From _2 States_).mp3",
+        "assets/playLists/Arijit Singh/Tum Hi Ho.mp3"
+      ],
+      "cover": "assets/playLists/Arijit Singh/cover.jpeg"
+    },
+    {
+      "playList": 3,
+      "name": "Atif Aslam",
+      "songs": [
+        "assets/playLists/Atif Aslam/Dil Diyan Gallan.mp3",
+        "assets/playLists/Atif Aslam/Jeene Laga Hoon.mp3",
+        "assets/playLists/Atif Aslam/O Saathi.mp3",
+        "assets/playLists/Atif Aslam/Pehli Dafa.mp3",
+        "assets/playLists/Atif Aslam/Tera Hone Laga Hoon.mp3"
+      ],
+      "cover": "assets/playLists/Atif Aslam/cover.jpeg"
+    },
+    {
+      "playList": 4,
+      "name": "Karan Aujla",
+      "songs": [
+        "assets/playLists/Karan Aujla/At Peace.mp3",
+        "assets/playLists/Karan Aujla/Gabhru!.mp3",
+        "assets/playLists/Karan Aujla/Tauba Tauba (From _Bad Newz_).mp3",
+        "assets/playLists/Karan Aujla/Wavy.mp3"
+      ],
+      "cover": "assets/playLists/Karan Aujla/cover.jpeg"
+    },
+    {
+      "playList": 5,
+      "name": "Pritam",
+      "songs": [
+        "assets/playLists/Pritam/Dil Ibaadat.mp3",
+        "assets/playLists/Pritam/Labon Ko.mp3",
+        "assets/playLists/Pritam/Ye Tune Kya Kiya.mp3"
+      ],
+      "cover": "assets/playLists/Pritam/cover.jpeg"
+    },
+    {
+      "playList": 6,
+      "name": "Shubh",
+      "songs": [
+        "assets/playLists/Shubh/Cheques.mp3",
+        "assets/playLists/Shubh/Dior.mp3",
+        "assets/playLists/Shubh/Ice.mp3",
+        "assets/playLists/Shubh/OG.mp3",
+        "assets/playLists/Shubh/Ruthless.mp3",
+        "assets/playLists/Shubh/Still Rollin.mp3",
+        "assets/playLists/Shubh/Supreme.mp3",
+        "assets/playLists/Shubh/The Flow.mp3"
+      ],
+      "cover": "assets/playLists/Shubh/Cover.jpeg"
+    }
+  ]
+}
